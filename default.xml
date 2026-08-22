@@ -6,4 +6,6 @@
   <default revision="main" remote="origin" />
   <!-- 定义子仓库：ai-assistant，下载到本地后放在 ai-assistant 文件夹 -->
   <project name="ai-assistant" path="ai-assistant" />
+  <!-- 定义子仓库2：my-utils -->
+  <project name="my-utils" path="my-utils">
 </manifest>
