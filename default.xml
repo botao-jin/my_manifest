@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- 定义远程服务器地址 -->
-  <remote name="origin" fetch="https://github.com/botao-jin/" />
+  <remote name="origin" fetch="git@github.com:botao-jin/" />
   <!-- 默认分支和远程仓库 -->
   <default revision="main" remote="origin" />
   <!-- 定义子仓库：ai-assistant，下载到本地后放在 ai-assistant 文件夹 -->
